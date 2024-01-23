@@ -49,6 +49,10 @@ function unsetproxy() {
 cd /home/xxx/v2ray
 ./v2ray
 ```
+运行后如下所示：
+<div align="center">
+<img src=https://github.com/Gwencong/GithubSpeed/assets/82023743/be3edfac-4dfb-4ad7-bf9d-ae774f5ee571 width=60%> 
+</div>
 
 然后另外开一个terminal，运行`setproxy`启动代理，然后运行`curl google.com`测试Google能不能访问，如果输出一串东西，没有报错就是配置成功了。
 
