@@ -36,11 +36,11 @@ function setproxy() {
     export ftp_proxy=socks5://127.0.0.1:10808
     export no_proxy="172.16.x.x"
 }
-​
+
 # unset proxy
 function unsetproxy() {
     unset http_proxy https_proxy ftp_proxy no_proxy
-
+}
 ```
 ### （4）测试
 运行如下命令启动v2ray：
