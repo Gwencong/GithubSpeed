@@ -46,7 +46,8 @@ function unsetproxy() {
 运行如下命令启动v2ray：
 ```bash
 # 假如解压后的v2ray的目录为/home/xxx/v2ray
-cd /home/xxx/v2ray & ./v2ray
+cd /home/xxx/v2ray
+./v2ray
 ```
 
 然后另外开一个terminal，运行`setproxy`启动代理，然后运行`curl google.com`测试Google能不能访问，如果输出一串东西，没有报错就是配置成功了。
