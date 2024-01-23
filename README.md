@@ -58,6 +58,7 @@ cd /home/xxx/v2ray
 <div align="center">
 <img src=https://github.com/Gwencong/GithubSpeed/assets/82023743/775f6fc2-ec4a-4d23-bbb7-a052b808c3c8 width=60%> 
 </div>
+然后在这个终端中进行`git clone`和`git push`速度就会很快了
 
 
 
